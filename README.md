@@ -1,0 +1,1 @@
+# Program-pentru-gestiunea-i-prezentarea-documentelor-TeX-sau-LaTeX-
